@@ -1,0 +1,176 @@
+"./editix.sh"
+cd ~/Dokumente/editix2021/bin\
+chmod u+x editix.sh
+cd ~/Dokumente/editix2021/bin
+STATUS=`defaults read com.apple.finder AppleShowAllFiles`\
+if [ $STATUS == 1 ]\
+then defaults write com.apple.finder AppleShowAllFiles -boolean FALSE\
+else defaults write com.apple.finder AppleShowAllFiles -boolean TRUE\
+fi\
+killall Finder
+STATUS=`defaults read com.apple.finder AppleShowAllFiles`\
+if [ $STATUS == 1 ]\
+then defaults write com.apple.finder AppleShowAllFiles -boolean FALSE\
+else defaults write com.apple.finder AppleShowAllFiles -boolean TRUE\
+fi\
+killall Finder
+cd ~/bin/sh
+cd bin/sh
+cd iMac Pro/Macintosh HD/bin/sh
+write com.apple.finder AppleShowAllFiles
+com.apple.finder AppleShowAllFiles
+AppleShowAllFiles
+com.apple.finder AppleShowAllFiles\
+-boolean FALSE\
+
+defaults write com.apple.finder AppleShowAllFiles
+cd
+cd bash
+cd sh
+cd Benutzer
+cd user
+cd usr
+cd ~
+ls
+cd Desktop
+ls
+open EVE.rtfd
+man shell
+man mv
+shell
+shell sh
+ftp://ftp.zsh.org/pub/
+homebrew h
+homebrew h
+homebrew -h
+man homebrew
+homebrew
+homebrew install
+install homebrew
+brew install
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew update
+man zsh
+gnu -v
+gnu --v
+brew install gcc
+ftp.gnu.org
+bin/bash
+cd ~bin/bash
+cd bin/bash
+gnu install
+/usr/sbin/systemstats ; exit;
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install --cask powershell
+pwsh
+ps help
+ps --p
+ps --help
+ps -u
+ps -- u
+ps --u
+ps
+ps -g
+ps -g--o
+ps -g --u
+ps -g -u
+ps [-AaCcEefhjlMmrSTvwXx]
+ps help
+ps -AaCcEefhjlMmrSTvwXx
+ps -Aa
+ps -Aa h
+ps -Aah
+ps -h
+ ps -help
+ps --help
+help ps
+ man ps
+/Applications/Ableton\ Live\ 9\ Suite.app/Contents/MacOS/Live ; exit;
+curl h
+curl
+curl --h
+curl --manual
+go -v
+go --v
+go
+man go
+http.HandleFunc("/", func (w http.ResponseWriter, r *http.Request) {\
+    fmt.Fprintf(w, "Hello, you've requested: %s\n", r.URL.Path)\
+})
+get http.HandleFunc("/", func (w http.ResponseWriter, r *http.Request) {\
+    fmt.Fprintf(w, "Hello, you've requested: %s\n", r.URL.Path)\
+})
+/bin/bash -c
+/bin/bash
+mkdir .dist
+files.autoSave
+mkdir .dist
+mkdir .dist
+node --version
+node install
+node --version
+libjli.dylib
+install jdk-17.jdk
+brew install --HEAD luajit
+brew install --HEAD neovim
+sudo port selfupdate\
+sudo port install neovim\
+
+sudo port selfupdate
+brew reinstall neovim
+sudo port install neovim
+./nvim-osx64/bin/nvim
+node --version
+/bin/bash
+mkdir .dist
+ls
+pip install matplotlib
+install matplotlib
+python -v
+install python3
+python
+python3 
+python3 version
+python3 --version
+py -0
+python interpreter
+python3 interpreter --version
+mkdir sleepwell
+cd sleepwell
+code .
+code.
+code
+open code
+run code
+ls
+--ls
+mkdir .dist
+/Users/yoor/Downloads/openssh-8.6p1/install-sh ; exit;
+/Users/yoor/Downloads/openssh-8.6p1/install-sh ; exit;
+$ ssh-keygen -t ed25519 -C "siegfried.hofpointner@chello.at"
+/bin/bash
+quit
+exit
+mkdir .dist
+mkdir .dist
+mkdir .dist
+$
+curl  https://support.apple.com/kb/HT208050
+curl â€ƒ¸ https://support.apple.com/kb/HT208050â€ƒ¹
+curl â€ƒ¸https://support.apple.com/kb/HT208050â€ƒ¹
+mkdir .dist
+mkdir .dist
+mkdir .dist
+mkdir .dist
+/Users/yoor/Downloads/chkrootkit-0.54/chkrootkit ; exit;
+/Users/yoor/Documents/PHP/php-8.0.1/configure ; exit;
+mkdir .dist
+/bin/bash
+mkdir .dist
+go --version
+go -list
+go <list>
+go list
+npm install eslint --save-dev
+npm fund
+/bin/bash
